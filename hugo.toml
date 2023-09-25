@@ -1,0 +1,4 @@
+baseURL = 'https://sihyeong671.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = "hugo-resume"
