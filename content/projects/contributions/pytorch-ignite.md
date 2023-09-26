@@ -1,8 +1,8 @@
 ---
-title: "Add feature - warmup scheduler each cycle"
+title: "Add feature - scheduler with warmup each cycle"
 link: ""
 image: "/images/pytorch-ignite.png"
-description: "add warmup duration cyclical scheduler for warmup each cycle"
+description: "add warmup duration in cyclical scheduler for warmup each cycle"
 featured: true
 tags: ["PyTorch","DL","PyTorch Ignite","Scheduler"]
 fact: ""
