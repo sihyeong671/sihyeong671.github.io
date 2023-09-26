@@ -2,3 +2,34 @@ baseURL = 'https://sihyeong671.github.io/'
 languageCode = 'en-us'
 title = 'Portfolio'
 theme = "hugo-resume"
+profileImage = ""
+showContact = true
+# PygmentsCodeFences = true
+# PygmentsCodeFencesGuessSyntax = true
+# PygmentsStyle = "monokai"
+enableGitInfo = false
+
+
+[params]
+address = "Busan, KR"
+email = "bshlab671@naver.com"
+favicon = "/favicon.ico"
+firstName = "Sihyeong"
+lastName = "Park"
+# phone = ""
+profileImage = "images/my_img.jpg"
+# showContact = true
+sections = ["skills", "competitions", "contributions"]
+
+
+
+[[params.handles]]
+link = "https://github.com/sihyeong671/"
+name = "GitHub"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
