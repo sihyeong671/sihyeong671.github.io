@@ -1,8 +1,8 @@
 ---
-title: "PyTorch Ignite"
+title: "Add feature - warmup scheduler each cycle"
 link: ""
 image: "/images/pytorch-ignite.png"
-description: "PyTorch Ignite contribution"
+description: "add warmup duration cyclical scheduler for warmup each cycle"
 featured: true
 tags: ["PyTorch","DL","PyTorch Ignite","Scheduler"]
 fact: ""
@@ -11,4 +11,4 @@ sitemap:
     priority : 0.8
 ---
 <!-- Read More -->
-Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.
+Referring by this [Github Repo](https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup), I added CosineAnnealingScheduler with warmup each cycle. Here is my [Pull Request](https://github.com/pytorch/ignite/pull/3064) also I added test code about CosineAnnealingScheduler using warmup.

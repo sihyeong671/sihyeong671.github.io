@@ -4,6 +4,7 @@ title = 'Portfolio'
 theme = "hugo-resume"
 profileImage = ""
 showContact = true
+
 # PygmentsCodeFences = true
 # PygmentsCodeFencesGuessSyntax = true
 # PygmentsStyle = "monokai"
@@ -19,6 +20,7 @@ lastName = "Park"
 # phone = ""
 profileImage = "images/my_img.jpg"
 # showContact = true
+showSocializations = true
 sections = ["skills", "competitions", "contributions"]
 
 
