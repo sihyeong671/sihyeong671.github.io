@@ -51,6 +51,8 @@ jobs:
         with:
           path: ./public
 
+  # hugo --gc --minify
+
   # Deployment job
   deploy:
     environment:
