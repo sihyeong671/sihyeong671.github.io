@@ -29,6 +29,9 @@ sections = ["skills", "competitions", "contributions"]
 link = "https://github.com/sihyeong671/"
 name = "GitHub"
 
+[[params.handles]]
+link = "https://www.linkedin.com/in/%EC%8B%9C%ED%98%95-%EB%B0%95-370207272/"
+name = "LinkedIn"
 
 [outputs]
 home = ["HTML", "JSON"]

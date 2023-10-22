@@ -19,5 +19,5 @@ B.S. in Computer Science and Engineering, Pusan National University, Seoul, Sout
 
 #### Exp
 - Naver AI Tech (2022.9 ~ 2023.02)
-- Intern in bionanoscopy lab (2023.9 ~ )
-- [학부연구생]
+- Bionanoscopy lab intern (2023.9 ~ )
+- undergraduate researcher in CVlab (2023.10 ~ )
