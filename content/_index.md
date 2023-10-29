@@ -9,15 +9,18 @@ outputs:
 - rss
 - json
 ---
-Hi! I'm Sihyeong Park. and I'm currently interested DL/ML
+Hi! I'm Sihyeong Park.   
+I'm currently interested DL/ML
 
-#### Blog
-[Naver](https://blog.naver.com/bshlab671),[Velog](https://velog.io/@sihyeong671)
+
 
 #### Education
 B.S. in Computer Science and Engineering, Pusan National University, Seoul, South Korea (2018 ~ )
 
 #### Exp
-- Naver AI Tech (2022.9 ~ 2023.02)
+- Naver AI Tech(CV Track) (2022.9 ~ 2023.02)
 - Bionanoscopy lab intern (2023.9 ~ )
 - undergraduate researcher in CVlab (2023.10 ~ )
+
+#### Blog
+[Naver](https://blog.naver.com/bshlab671),[Velog](https://velog.io/@sihyeong671)

@@ -14,7 +14,9 @@
       "grouping":"DL Framework",
       "skills":[
         {"name": "PyTorch", "icon": "devicon-pytorch-original"},
-        {"name": "Weight & Bias", "icon": ""},
+        {"name": "PyTorch Lightning"},
+        {"name": "PyTorch Ignite"},
+        {"name": "Weight & Bias"},
         {"name": "FastAPI", "icon": "devicon-fastapi-plain"}
       ]
   },

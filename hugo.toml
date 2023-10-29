@@ -21,7 +21,7 @@ lastName = "Park"
 profileImage = "images/my_img.jpg"
 # showContact = true
 showSocializations = true
-sections = ["skills", "competitions", "contributions"]
+sections = ["skills", "project", "competitions", "contributions"]
 
 
 

@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4D Block Classification</title>
-      <link>https://sihyeong671.github.io/projects/competitions/dacon_4d_block/</link>
+      <title>Develop scoliosis classification model</title>
+      <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihyeong671.github.io/projects/competitions/dacon_4d_block/</guid>
-      <description>추가 예정</description>
+      <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
+      <description>bionanoscopy lab에서 부산대병원측과 같이 진행한 척추 측만증 예측 프로젝트</description>
     </item>
     
   </channel>

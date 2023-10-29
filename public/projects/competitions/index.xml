@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="https://sihyeong671.github.io/projects/competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4D Block Classification</title>
-      <link>https://sihyeong671.github.io/projects/competitions/dacon_4d_block/</link>
+      <title>Awards</title>
+      <link>https://sihyeong671.github.io/projects/competitions/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihyeong671.github.io/projects/competitions/dacon_4d_block/</guid>
-      <description>추가 예정</description>
+      <guid>https://sihyeong671.github.io/projects/competitions/awards/</guid>
+      <description> Prize 2023 k-ium 의료인공지능 경진대회 우수상 뇌동맥류 탐지 알고리즘 모델 개발 2023 제 5회 오픈인프라 경진대회 대상 ChatGPT를 활용한 모니터링 봇 개발 </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/competitions/more_about/</guid>
-      <description> Prize 2023 k-ium 의료경진대회 우수상 2023 오픈인프라 경진대회 대상 other competitions 추가 예정 </description>
+      <description> competitions Naver AI Tech 마스크 착용 분류 Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation 신약개발 AI 경진대회 Dacon 화가분류 경진대회 4D Block Classification </description>
     </item>
     
   </channel>

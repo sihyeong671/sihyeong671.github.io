@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Portfolio</title>
+    <link>https://sihyeong671.github.io/tags/aws/</link>
+    <description>Recent content in AWS on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guess Image with Neural Painting model</title>
+      <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
+      <description>FastAPI를 사용해 제작한 백엔드
+웹 페이지 이동하기(준비중)</description>
+    </item>
+    
+    <item>
+      <title>Club Web Page - Backend</title>
+      <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
+      <description>FastAPI를 사용해 제작한 백엔드
+웹 페이지 이동하기(준비중)</description>
+    </item>
+    
+  </channel>
+</rss>
