@@ -27,6 +27,16 @@
     </item>
     
     <item>
+      <title>Chosung Game</title>
+      <link>https://sihyeong671.github.io/projects/project/chosung_game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
+      <description> 몰입 캠프 4주차 프로젝트
+속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
+    </item>
+    
+    <item>
       <title>Club Web Page - Backend</title>
       <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

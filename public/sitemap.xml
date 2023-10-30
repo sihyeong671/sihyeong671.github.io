@@ -20,6 +20,9 @@
     <loc>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</loc>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://sihyeong671.github.io/projects/project/chosung_game/</loc>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://sihyeong671.github.io/projects/contributions/pytorch-ignite/</loc>
     <priority>0.8</priority>
   </url><url>
@@ -48,9 +51,13 @@
   </url><url>
     <loc>https://sihyeong671.github.io/tags/docer/</loc>
   </url><url>
+    <loc>https://sihyeong671.github.io/tags/express/</loc>
+  </url><url>
     <loc>https://sihyeong671.github.io/tags/fastapi/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/mongodb/</loc>
+  </url><url>
+    <loc>https://sihyeong671.github.io/tags/next.js/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/pytorch/</loc>
   </url><url>
@@ -62,6 +69,8 @@
   </url><url>
     <loc>https://sihyeong671.github.io/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>https://sihyeong671.github.io/tags/socket.io/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/</loc>
   </url>
