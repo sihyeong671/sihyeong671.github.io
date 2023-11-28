@@ -17,8 +17,18 @@ hugo
 
 # Fix Guide
 
-좌측 섹션 추가 필요한 경우
+theme/hugo-resume.zip파일 압축해제후 기존 폴더 대체하기
+
+**좌측 섹션 추가 필요한 경우**
 - hugo-resume/layout/index.html 수정
 - hugo.toml section에 같은 이름으로 추가
 - hugo-resume/i18n/en.json파일에 key value 추가
 
+**skills 추가 필요한 경우**
+- data/skills.json에 추가
+- 아이콘은 [devicon](https://devicon.dev/)에서 검색후 추가
+
+# Deploy
+
+github action 현재 repo대로 수정 필요함
+로컬에서 `hugo`명령어 이용해서 public 폴더 만들고 commit하고 PR
