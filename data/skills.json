@@ -16,7 +16,13 @@
         {"name": "PyTorch", "icon": "devicon-pytorch-original"},
         {"name": "PyTorch Lightning"},
         {"name": "PyTorch Ignite"},
-        {"name": "Weight & Bias"},
+        {"name": "Weight & Bias"}
+      ]
+  },
+  {
+    "grouping":"BE",
+      "skills":[
+        {"name": "Django", "icon": "devicon-django-plain"},
         {"name": "FastAPI", "icon": "devicon-fastapi-plain"}
       ]
   },
