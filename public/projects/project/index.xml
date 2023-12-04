@@ -23,7 +23,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
-      <description>bionanoscopy lab에서 부산대병원측과 같이 진행한 척추 측만증 예측 프로젝트</description>
+      <description> bionanoscopy lab에서 부산대병원측과 같이 진행한 척추 측만증 예측 프로젝트
+DVC </description>
     </item>
     
     <item>
@@ -42,8 +43,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description>FastAPI를 사용해 제작한 백엔드
-웹 페이지 이동하기(준비중)</description>
+      <description>Django를 사용해 제작한 백엔드
+ERD 작성 웹 페이지 이동하기(준비중)</description>
     </item>
     
   </channel>
