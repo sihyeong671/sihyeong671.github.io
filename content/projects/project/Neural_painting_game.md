@@ -1,16 +1,18 @@
 ---
-title: "Guess Image with Neural Painting model"
+title: "Guessing Image with Neural Painting model"
 link: "https://github.com/boostcampaitech4lv23cv1/final-project-level3-cv-06"
 image: "/images/game_main.PNG"
 description: "Neural Painting(Paint Transformer)를 활용한 1인용 게임"
 featured: true
-tags: ["FastAPI", "AWS", "Docer", "React", "MongoDB"]
+tags: ["FastAPI", "AWS", "Docker", "PostgreSQL", "Airflow"]
 fact: ""
-weight: 10
+weight: 100
 sitemap: 
     priority : 0.8
 ---
 <!-- Read More -->
-FastAPI를 사용해 제작한 백엔드
-
-[웹 페이지 이동하기(준비중)]()
+네이버 부스트캠프에서 진행한 final project
+- FastAPI + PostgreSQL API 제작
+- Nginx를 통한 layer분산 및 추론 파이프라인 제작
+- GCP, GCS를 서버 배포 및 WEBP 파일 저장
+- Airflow를 통한 오토라벨링 파이프라인 제작

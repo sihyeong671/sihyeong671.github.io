@@ -28,6 +28,10 @@ theme/hugo-resume.zip파일 압축해제후 기존 폴더 대체하기
 - data/skills.json에 추가
 - 아이콘은 [devicon](https://devicon.dev/)에서 검색후 추가
 
+
+**projects 정렬 방법**
+- weight 조정하여 순서 정렬
+
 # Deploy
 
 github action 현재 repo대로 수정 필요함

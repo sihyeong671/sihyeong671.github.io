@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FastAPI on Portfolio</title>
-    <link>https://sihyeong671.github.io/tags/fastapi/</link>
-    <description>Recent content in FastAPI on Portfolio</description>
+    <title>PostgreSQL on Portfolio</title>
+    <link>https://sihyeong671.github.io/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/fastapi/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guessing Image with Neural Painting model</title>
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>

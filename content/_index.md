@@ -23,4 +23,4 @@ B.S. in Computer Science and Engineering, Pusan National University, Seoul, Sout
 - undergraduate researcher in CVlab (2023.10 ~ )
 
 #### Blog
-[Naver](https://blog.naver.com/bshlab671),[Velog](https://velog.io/@sihyeong671)
+[Naver](https://blog.naver.com/bshlab671) | [Velog](https://velog.io/@sihyeong671)

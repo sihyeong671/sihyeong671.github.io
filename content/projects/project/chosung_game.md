@@ -1,12 +1,12 @@
 ---
 title: "Chosung Game"
 link: "https://github.com/sihyeong671/chosung_game"
-image: ""
+image: "/images/chosung_game.png"
 description: "6인용 웹 게임 : 속담/어록 맞히기"
 featured: true
 tags: ["Next.js", "Express", "MongoDB", "Socket.io"]
 fact: ""
-weight: 30
+weight: 101
 sitemap: 
     priority : 0.8
 ---

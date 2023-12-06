@@ -8,33 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Sep 2023 18:56:13 -0500</lastBuildDate><atom:link href="https://sihyeong671.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guess Image with Neural Painting model</title>
-      <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description>FastAPI를 사용해 제작한 백엔드
-웹 페이지 이동하기(준비중)</description>
-    </item>
-    
-    <item>
       <title>Develop scoliosis classification model</title>
       <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
-      <description> bionanoscopy lab에서 부산대병원측과 같이 진행한 척추 측만증 예측 프로젝트
-DVC </description>
+      <description> 부산대병원측 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트
+DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 현재 모델 개발 중 </description>
     </item>
     
     <item>
-      <title>Chosung Game</title>
-      <link>https://sihyeong671.github.io/projects/project/chosung_game/</link>
+      <title>Segment &amp; Classify for Treponema pallidum</title>
+      <link>https://sihyeong671.github.io/projects/project/fta_abs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
-      <description> 몰입 캠프 4주차 프로젝트
-속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
+      <guid>https://sihyeong671.github.io/projects/project/fta_abs/</guid>
+      <description>씨젠 의료재단 과제
+SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분류 진행중 </description>
     </item>
     
     <item>
@@ -52,17 +42,17 @@ DVC </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/competitions/awards/</guid>
-      <description> Prize 2023 k-ium 의료인공지능 경진대회 우수상 뇌동맥류 탐지 알고리즘 모델 개발 2023 제 5회 오픈인프라 경진대회 대상 ChatGPT를 활용한 모니터링 봇 개발 2023 국방 AI 경진대회(Military AI Competition) 사이버 보안을 위한 DeepFake 분류 모델 개발 </description>
+      <description> Prize 2023 k-ium 의료인공지능 경진대회 우수상 뇌동맥류 탐지 알고리즘 모델 개발 2023 제 5회 오픈인프라 경진대회 대상 ChatGPT를 활용한 모니터링 봇 개발 2023 국방 AI 경진대회(Military AI Competition) 후원기업상 사이버 보안을 위한 DeepFake 분류 모델 개발 </description>
     </item>
     
     <item>
-      <title>Club Web Page - Backend</title>
-      <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
+      <title>Guessing Image with Neural Painting model</title>
+      <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description>Django를 사용해 제작한 백엔드
-ERD 작성 웹 페이지 이동하기(준비중)</description>
+      <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
+      <description> 네이버 부스트캠프에서 진행한 final project
+FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 서버 배포 및 WEBP 파일 저장 Airflow를 통한 오토라벨링 파이프라인 제작 </description>
     </item>
     
     <item>
@@ -71,7 +61,29 @@ ERD 작성 웹 페이지 이동하기(준비중)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/competitions/more_about/</guid>
-      <description> competitions Naver AI Tech 마스크 착용 분류 Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation 신약개발 AI 경진대회 Dacon 화가분류 경진대회 4D Block Classification </description>
+      <description> competitions Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech 마스크 착용 분류 4D Block Classification Dacon 화가분류 경진대회 신약개발 AI 경진대회 Dacon Building Segmentation Fake Real Image Detection </description>
+    </item>
+    
+    <item>
+      <title>Chosung Game</title>
+      <link>https://sihyeong671.github.io/projects/project/chosung_game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
+      <description> 몰입 캠프 4주차 프로젝트
+속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
+    </item>
+    
+    <item>
+      <title>Club Web Page - Backend</title>
+      <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
+      <description> 인공지능 동아리 웹 제작 프로젝트
+v0 : FastAPI + MongoDB (이전 버전)
+v1 : Django + MySQL(지속적인 개발 및 빠른 학습을 위해 기술 스택 전환)
+ERD 작성 진행중 </description>
     </item>
     
     <item>

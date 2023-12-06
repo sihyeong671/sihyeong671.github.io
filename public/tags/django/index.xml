@@ -12,8 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description>Django를 사용해 제작한 백엔드
-ERD 작성 웹 페이지 이동하기(준비중)</description>
+      <description> 인공지능 동아리 웹 제작 프로젝트
+v0 : FastAPI + MongoDB (이전 버전)
+v1 : Django + MySQL(지속적인 개발 및 빠른 학습을 위해 기술 스택 전환)
+ERD 작성 진행중 </description>
     </item>
     
   </channel>
