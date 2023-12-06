@@ -1,7 +1,7 @@
 ---
 title: "Segment & Classify for Treponema pallidum"
 link: ""
-image: ""
+image: "/images/seegene.jpeg"
 description: "매독균 분류 알고리즘 개발"
 featured: true
 tags: ["Segmentation", "Classification"]
