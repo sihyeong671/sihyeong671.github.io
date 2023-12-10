@@ -52,7 +52,7 @@ SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분
       
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
       <description> 네이버 부스트캠프에서 진행한 final project
-FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 서버 배포 및 WEBP 파일 저장 Airflow를 통한 오토라벨링 파이프라인 제작 </description>
+FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sihyeong671.github.io/projects/competitions/more_about/</guid>
-      <description> competitions Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech 마스크 착용 분류 4D Block Classification Dacon 화가분류 경진대회 신약개발 AI 경진대회 Dacon Building Segmentation Fake Real Image Detection </description>
+      <description> competitions Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech 마스크 착용 분류 4D Block Classification Dacon 화가분류 경진대회 Fake Real Image Detection Dacon Building Segmentation 신약개발 AI 경진대회 </description>
     </item>
     
     <item>
