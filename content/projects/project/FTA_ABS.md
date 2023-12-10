@@ -2,7 +2,7 @@
 title: "Segment & Classify for Treponema pallidum"
 link: ""
 image: "/images/seegene.jpeg"
-description: "매독균 분류 알고리즘 개발"
+description: "foundation model을 활용한 매독균 Segment 및 분류 알고리즘 개발"
 featured: true
 tags: ["Segmentation", "Classification"]
 fact: ""

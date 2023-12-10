@@ -14,5 +14,4 @@ sitemap:
 네이버 부스트캠프에서 진행한 final project
 - FastAPI + PostgreSQL API 제작
 - Nginx를 통한 layer분산 및 추론 파이프라인 제작
-- GCP, GCS를 서버 배포 및 WEBP 파일 저장
-- Airflow를 통한 오토라벨링 파이프라인 제작
+- GCP, GCS를 활용하여 서버 배포

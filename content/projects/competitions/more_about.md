@@ -17,6 +17,8 @@ sitemap:
 - [Naver AI Tech 마스크 착용 분류](https://github.com/boostcampaitech4cv1/level1_imageclassification_cv-level1-cv-02)
 - [4D Block Classification](https://github.com/sihyeong671/4D_Block_classification_competition)
 - [Dacon 화가분류 경진대회](https://github.com/sihyeong671/DACON-CV02)
-- [신약개발 AI 경진대회](https://github.com/sihyeong671/JUMP-AI-2023)
-- [Dacon Building Segmentation](https://github.com/sihyeong671/Dacon_building_area_segmentation)
+
+---
 - [Fake Real Image Detection](https://github.com/sihyeong671/AIconnect-Fake-Real-Image-Detect)
+- [Dacon Building Segmentation](https://github.com/sihyeong671/Dacon_building_area_segmentation)
+- [신약개발 AI 경진대회](https://github.com/sihyeong671/JUMP-AI-2023)

@@ -2,7 +2,7 @@
 title: "Develop scoliosis classification model"
 link: ""
 image: "/images/pnu_logo.jpeg"
-description: "척추 측만증 예측(분류) 모델 개발"
+description: "CNN 기반 척추 측만증 예측(분류) 모델 개발 및 데이터 버저닝 작업"
 featured: true
 tags: ["DL", "Classification"]
 fact: ""
