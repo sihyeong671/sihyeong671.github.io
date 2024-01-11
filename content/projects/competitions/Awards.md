@@ -19,3 +19,5 @@ sitemap:
   - ChatGPT를 활용한 모니터링 봇 개발
 - [2023 국방 AI 경진대회(**M**ilitary **AI C**ompetiti**on**) 후원기업상](https://github.com/sihyeong671/2023-MAICON)
   - 사이버 보안을 위한 DeepFake 분류 모델 개발
+- WCRC 딥러닝 활용부문 장려상
+  - Visual Localization 

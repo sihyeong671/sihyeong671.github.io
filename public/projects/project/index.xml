@@ -6,58 +6,42 @@
     <description>Recent content in Projects on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="https://sihyeong671.github.io/projects/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2020 16:49:15 +0000</lastBuildDate>
+    <atom:link href="https://sihyeong671.github.io/projects/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Develop scoliosis classification model</title>
       <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
-      <description> 부산대병원측 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트
-DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 현재 모델 개발 중 </description>
+      <description> 부산대병원측 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트&#xA;DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 현재 모델 개발 중 </description>
     </item>
-    
     <item>
       <title>Segment &amp; Classify for Treponema pallidum</title>
       <link>https://sihyeong671.github.io/projects/project/fta_abs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/fta_abs/</guid>
-      <description>씨젠 의료재단 과제
-SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분류 진행중 </description>
+      <description>씨젠 의료재단 과제&#xA;SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분류 진행중 </description>
     </item>
-    
     <item>
       <title>Guessing Image with Neural Painting model</title>
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> 네이버 부스트캠프에서 진행한 final project
-FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
+      <description> 네이버 부스트캠프에서 진행한 final project&#xA;FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
     </item>
-    
     <item>
       <title>Chosung Game</title>
       <link>https://sihyeong671.github.io/projects/project/chosung_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
-      <description> 몰입 캠프 4주차 프로젝트
-속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
+      <description> 몰입 캠프 4주차 프로젝트&#xA;속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
     </item>
-    
     <item>
       <title>Club Web Page - Backend</title>
       <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description> 인공지능 동아리 웹 제작 프로젝트
-v0 : FastAPI + MongoDB (이전 버전)
-v1 : Django + MySQL(지속적인 개발 및 빠른 학습을 위해 기술 스택 전환)
-ERD 작성 진행중 </description>
+      <description> 인공지능 동아리 웹 제작 프로젝트&#xA;v0 : FastAPI + MongoDB (이전 버전)&#xA;v1 : Django + PostgreSQL(지속적인 개발 및 높은 생산성을 위해 기술 스택 전환)&#xA;ERD 작성 진행중 </description>
     </item>
-    
   </channel>
 </rss>

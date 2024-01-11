@@ -5,18 +5,14 @@
     <link>https://sihyeong671.github.io/tags/docer/</link>
     <description>Recent content in Docer on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/docer/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://sihyeong671.github.io/tags/docer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Club Web Page - Backend</title>
       <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description> 인공지능 동아리 웹 제작 프로젝트
-v0 : FastAPI + MongoDB (이전 버전)
-v1 : Django + MySQL(지속적인 개발 및 빠른 학습을 위해 기술 스택 전환)
-ERD 작성 진행중 </description>
+      <description> 인공지능 동아리 웹 제작 프로젝트&#xA;v0 : FastAPI + MongoDB (이전 버전)&#xA;v1 : Django + PostgreSQL(지속적인 개발 및 높은 생산성을 위해 기술 스택 전환)&#xA;ERD 작성 진행중 </description>
     </item>
-    
   </channel>
 </rss>

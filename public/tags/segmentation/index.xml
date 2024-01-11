@@ -5,16 +5,14 @@
     <link>https://sihyeong671.github.io/tags/segmentation/</link>
     <description>Recent content in Segmentation on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://sihyeong671.github.io/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segment &amp; Classify for Treponema pallidum</title>
       <link>https://sihyeong671.github.io/projects/project/fta_abs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/fta_abs/</guid>
-      <description>씨젠 의료재단 과제
-SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분류 진행중 </description>
+      <description>씨젠 의료재단 과제&#xA;SegGPT를 활용한 자동 Segment intensity분포를 활용하여 매독균 분류 진행중 </description>
     </item>
-    
   </channel>
 </rss>

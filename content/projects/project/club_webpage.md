@@ -15,7 +15,7 @@ sitemap:
 
 v0 : FastAPI + MongoDB ([이전 버전](https://github.com/PNU-AID/AID_WEB_backend))
 
-v1 : Django + MySQL(지속적인 개발 및 빠른 학습을 위해 기술 스택 전환)
+v1 : Django + PostgreSQL(지속적인 개발 및 높은 생산성을 위해 기술 스택 전환)
 
 - ERD 작성
 - 진행중

@@ -5,16 +5,14 @@
     <link>https://sihyeong671.github.io/tags/docker/</link>
     <description>Recent content in Docker on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sihyeong671.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://sihyeong671.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guessing Image with Neural Painting model</title>
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> 네이버 부스트캠프에서 진행한 final project
-FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
+      <description> 네이버 부스트캠프에서 진행한 final project&#xA;FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
     </item>
-    
   </channel>
 </rss>
