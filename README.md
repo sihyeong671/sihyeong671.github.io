@@ -34,5 +34,6 @@ theme/hugo-resume.zip파일 압축해제후 기존 폴더 대체하기
 
 # Deploy
 
+가끔 안될 때 [공식 docs](https://gohugo.io/hosting-and-deployment/hosting-on-github/) 확인 필요
 github action 현재 repo대로 수정 필요함
 로컬에서 `hugo`명령어 이용해서 public 폴더 만들고 commit하고 PR
