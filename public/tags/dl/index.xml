@@ -12,14 +12,14 @@
       <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
-      <description> 부산대병원측 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트&#xA;DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 현재 모델 개발 중 </description>
+      <description> 부산대병원 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트&#xA;DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 </description>
     </item>
     <item>
       <title>Add feature - scheduler with warmup each cycle</title>
       <link>https://sihyeong671.github.io/projects/contributions/pytorch-ignite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/contributions/pytorch-ignite/</guid>
-      <description>Referring by this Github Repo, I added CosineAnnealingScheduler with warmup each cycle. Here is my Pull Request also I added test code about CosineAnnealingScheduler using warmup.</description>
+      <description>Referring by this Github Repo, I added CosineAnnealingScheduler with warmup each cycle : PR&#xA;For consistency, I add argument in LinearCyclicalScheduler class while preserving BC(backward compatibility) : PR&#xA;Also I added test code for above new arguments</description>
     </item>
   </channel>
 </rss>

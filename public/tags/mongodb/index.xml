@@ -14,12 +14,5 @@
       <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
       <description> 몰입 캠프 4주차 프로젝트&#xA;속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
     </item>
-    <item>
-      <title>Club Web Page - Backend</title>
-      <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description> 인공지능 동아리 웹 제작 프로젝트&#xA;v0 : FastAPI + MongoDB (이전 버전)&#xA;v1 : Django + PostgreSQL(지속적인 개발 및 높은 생산성을 위해 기술 스택 전환)&#xA;ERD 작성 진행중 </description>
-    </item>
   </channel>
 </rss>

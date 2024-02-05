@@ -12,14 +12,7 @@
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> 네이버 부스트캠프에서 진행한 final project&#xA;FastAPI + PostgreSQL API 제작 Nginx를 통한 layer분산 및 추론 파이프라인 제작 GCP, GCS를 활용하여 서버 배포 </description>
-    </item>
-    <item>
-      <title>Club Web Page - Backend</title>
-      <link>https://sihyeong671.github.io/projects/project/club_webpage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sihyeong671.github.io/projects/project/club_webpage/</guid>
-      <description> 인공지능 동아리 웹 제작 프로젝트&#xA;v0 : FastAPI + MongoDB (이전 버전)&#xA;v1 : Django + PostgreSQL(지속적인 개발 및 높은 생산성을 위해 기술 스택 전환)&#xA;ERD 작성 진행중 </description>
+      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL DB game score DB 구현 추론 파이프라인 제작 및 Nginx를 이용한 추론 요청 분산 Docker 및 Docker compose를 활용하여 GCS에 배포 </description>
     </item>
   </channel>
 </rss>

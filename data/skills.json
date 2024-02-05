@@ -3,11 +3,11 @@
       "grouping":"Languages, Tools",
       "skills":[
         {"name": "Python", "icon": "devicon-python-plain"},
-        {"name": "C++", "icon": "devicon-cplusplus-plain"},
         {"name": "C", "icon": "devicon-c-plain"},
         {"name": "JavaScript", "icon": "devicon-javascript-plain"},
         {"name": "Git", "icon": "devicon-git-plain"},
-        {"name": "Github", "icon": "devicon-github-original"}
+        {"name": "Github", "icon": "devicon-github-original"},
+        {"name": "Go", "icon": "devicon-go-original-wordmark"}
       ]
   },
   {
