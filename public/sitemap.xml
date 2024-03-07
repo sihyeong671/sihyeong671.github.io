@@ -14,10 +14,13 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://sihyeong671.github.io/projects/project/fta_abs/</loc>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://sihyeong671.github.io/projects/project/fta_abs/</loc>
+    <loc>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</loc>
     <priority>0.8</priority>
   </url><url>
     <loc>https://sihyeong671.github.io/projects/contributions/pytorch-ignite/</loc>
@@ -48,6 +51,10 @@
   </url><url>
     <loc>https://sihyeong671.github.io/tags/aws/</loc>
   </url><url>
+    <loc>https://sihyeong671.github.io/tags/cam/</loc>
+  </url><url>
+    <loc>https://sihyeong671.github.io/tags/cam-loss/</loc>
+  </url><url>
     <loc>https://sihyeong671.github.io/tags/classification/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/dl/</loc>
@@ -69,6 +76,8 @@
     <loc>https://sihyeong671.github.io/tags/pytorch/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/pytorch-ignite/</loc>
+  </url><url>
+    <loc>https://sihyeong671.github.io/tags/pytroch/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/pytroch-lightning/</loc>
   </url><url>

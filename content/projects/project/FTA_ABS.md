@@ -6,7 +6,7 @@ description: "foundation model을 활용한 매독균 Segment 및 분류 알고�
 featured: true
 tags: ["PyTroch Lightning", "Segmentation", "Classification"]
 fact: ""
-weight: 99
+weight: 97
 sitemap: 
     priority : 0.8
 ---
@@ -14,7 +14,8 @@ sitemap:
 **매독균 분류 프로젝트**
 - PyTorch Lightning을 이용해 모델 학습 코드 구현
 - Confusion matrix 시각화 및 Metric logging
-- 너무 큰 이미지가 resize에 많은 영향을 받는 것으로 파악하여 image split해서 예측하고 그 평균으로 전체 이미지를 분류 하도록 프로그래밍
-- OpenCV를 이용한 전처리 및 SegGPT를 활용한 자동 Segment 파이프라인 구축
-- 전문가가 분류할 때 Intensity를 하나의 요소로 보는 것을 파악하여 밝기 데이터 분포를 파악
-- 밝기 분포를 model의 condition으로 추가하여 모델 구조 변형 및 약간의 성능 개선
+- OpenCV 이용한 전처리 (Contrast Enhancement, Sharpening)
+- SegGPT모델 사용한 자동 Segment 파이프라인 구축
+- resize의 영향 줄이기 위해 원본 이미지 split하여 예측하고 이를 평균내어 결과 예측에 사용
+- 원본 이미지와 segment mask의 overlay 픽셀의 intensity값의 분포 파악하여 연관성 확인
+- noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변형 및 약간의 성능 개선

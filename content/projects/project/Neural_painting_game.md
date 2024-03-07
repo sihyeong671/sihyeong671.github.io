@@ -11,8 +11,11 @@ sitemap:
     priority : 0.8
 ---
 <!-- Read More -->
-Naver AI Tech final project
+**Naver AI Tech final project**
 - FastAPI를 이용한 추론 서버 구현
-- Sqlalchemy를 사용해 PostgreSQL DB game score DB 구현
-- 추론 파이프라인 제작 및 Nginx를 이용한 추론 요청 분산
-- Docker 및 Docker compose를 활용하여 GCS에 배포
+- Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성
+- Docker-compose 파일 활용한 배포 단순화
+- locust를 사용한 부하테스트
+- Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화
+- GCP, GCS를 사용하여 서버 배포
+- GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용

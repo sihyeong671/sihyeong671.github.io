@@ -9,18 +9,25 @@
     <lastBuildDate>Sun, 10 Sep 2023 18:56:13 -0500</lastBuildDate>
     <atom:link href="https://sihyeong671.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Develop scoliosis classification model</title>
-      <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
-      <description> 부산대병원 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트&#xA;DVC로 데이터 관리 CNN 기반 베이스 모델 제작 Streamlit으로 데모 앱 제작 </description>
-    </item>
-    <item>
       <title>Segment &amp; Classify for Treponema pallidum</title>
       <link>https://sihyeong671.github.io/projects/project/fta_abs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/fta_abs/</guid>
-      <description>매독균 분류 프로젝트&#xA;PyTorch Lightning을 이용해 모델 학습 코드 구현 Confusion matrix 시각화 및 Metric logging 너무 큰 이미지가 resize에 많은 영향을 받는 것으로 파악하여 image split해서 예측하고 그 평균으로 전체 이미지를 분류 하도록 프로그래밍 OpenCV를 이용한 전처리 및 SegGPT를 활용한 자동 Segment 파이프라인 구축 전문가가 분류할 때 Intensity를 하나의 요소로 보는 것을 파악하여 밝기 데이터 분포를 파악 밝기 분포를 model의 condition으로 추가하여 모델 구조 변형 및 약간의 성능 개선 </description>
+      <description>매독균 분류 프로젝트&#xA;PyTorch Lightning을 이용해 모델 학습 코드 구현 Confusion matrix 시각화 및 Metric logging OpenCV 이용한 전처리 (Contrast Enhancement, Sharpening) SegGPT모델 사용한 자동 Segment 파이프라인 구축 resize의 영향 줄이기 위해 원본 이미지 split하여 예측하고 이를 평균내어 결과 예측에 사용 원본 이미지와 segment mask의 overlay 픽셀의 intensity값의 분포 파악하여 연관성 확인 noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변형 및 약간의 성능 개선 </description>
+    </item>
+    <item>
+      <title>Develop scoliosis classification model</title>
+      <link>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sihyeong671.github.io/projects/project/scoliosis_prediction/</guid>
+      <description> 부산대병원 데이터를 활용하여 진행한 척추 측만증 예측 프로젝트&#xA;DVC로 데이터 관리 YOLOv8을 이용해 human detection 전처리 human bbox내부의 사람만 crop하여 input으로 사용, 이를 통한 모델 성능 개선 CNN 기반 베이스 모델과 학습 및 추론 파이프라인 제작 Streamlit으로 데모 웹 제작 </description>
+    </item>
+    <item>
+      <title>CAM loss implementation with PyTorch</title>
+      <link>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</guid>
+      <description>CAM loss&#xA;CAM loss 구현 optimizer 두 개 사용해 모델 파라미터 나눠서 훈련 MNIST 데이터 셋으로 테스트 </description>
     </item>
     <item>
       <title>Add feature - scheduler with warmup each cycle</title>
@@ -41,7 +48,7 @@
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL DB game score DB 구현 추론 파이프라인 제작 및 Nginx를 이용한 추론 요청 분산 Docker 및 Docker compose를 활용하여 GCS에 배포 </description>
+      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성 Docker-compose 파일 활용한 배포 단순화 locust를 사용한 부하테스트 Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화 GCP, GCS를 사용하여 서버 배포 GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용 </description>
     </item>
     <item>
       <title>More About</title>
@@ -51,7 +58,7 @@
       <description> competitions Naver AI Tech재활용 품목 분류를 위한 Semantic Segmentation Naver AI Tech 재활용 품목 분류를 위한 Object Detection Naver AI Tech 마스크 착용 분류 4D Block Classification Dacon 화가분류 경진대회 Fake Real Image Detection Dacon Building Segmentation 신약개발 AI 경진대회 </description>
     </item>
     <item>
-      <title>IE, EA regression with molcules information</title>
+      <title>IE, EA prediction with molcules information</title>
       <link>https://sihyeong671.github.io/projects/project/ie_ea_predition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/ie_ea_predition/</guid>
@@ -62,7 +69,7 @@
       <link>https://sihyeong671.github.io/projects/project/chosung_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/chosung_game/</guid>
-      <description> 몰입 캠프 4주차 프로젝트&#xA;속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 게스트 로그인 및 카카오 소셜 로그인 구현 </description>
+      <description> 몰입 캠프 4주차 프로젝트&#xA;6인용 실시간 웹 게임 속담 / 어록 데이터 크롤링 실시간 채팅을 위한 프론트엔드 로직 작성 로컬 로그인 및 카카오 소셜 로그인 구현 </description>
     </item>
     <item>
       <title>Search Results</title>
