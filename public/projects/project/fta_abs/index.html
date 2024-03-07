@@ -117,9 +117,11 @@
     <p><strong>매독균 분류 프로젝트</strong></p>
 <ul>
 <li>PyTorch Lightning을 이용해 모델 학습 코드 구현</li>
-<li>Confusion matrix 시각화 및 Metric logging 자동화</li>
-<li>SegGPT를 활용한 자동 Segment 파이프라인 구축</li>
-<li>Intensity분포 데이터 추가 활용하여 모델 개발</li>
+<li>Confusion matrix 시각화 및 Metric logging</li>
+<li>너무 큰 이미지가 resize에 많은 영향을 받는 것으로 파악하여 image split해서 예측하고 그 평균으로 전체 이미지를 분류 하도록 프로그래밍</li>
+<li>OpenCV를 이용한 전처리 및 SegGPT를 활용한 자동 Segment 파이프라인 구축</li>
+<li>전문가가 분류할 때 Intensity를 하나의 요소로 보는 것을 파악하여 밝기 데이터 분포를 파악</li>
+<li>밝기 분포를 model의 condition으로 추가하여 모델 구조 변형 및 약간의 성능 개선</li>
 </ul>
 
     

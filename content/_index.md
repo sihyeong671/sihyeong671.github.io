@@ -19,9 +19,9 @@ B.S. in Computer Science and Engineering, Pusan National University, Seoul, Sout
 
 #### Exp
 - undergraduate researcher in CVlab (2023.10 ~ )
-- Bionanoscopy lab intern (2023.9 ~ 2024.4)
-- Open Source Contribution Academy (2023.7 ~ 2023.10)
-- Naver AI Tech(CV Track) (2022.9 ~ 2023.02)
+- Bionanoscopy lab intern (2023.09 ~ 2024.04)
+- Open Source Contribution Academy (2023.07 ~ 2023.10)
+- Naver AI Tech(CV Track) (2022.09 ~ 2023.02)
 
 #### Blog
 [Naver](https://blog.naver.com/bshlab671) | [Velog](https://velog.io/@sihyeong671)

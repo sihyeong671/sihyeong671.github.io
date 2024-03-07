@@ -32,6 +32,9 @@
     <loc>https://sihyeong671.github.io/projects/competitions/more_about/</loc>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://sihyeong671.github.io/projects/project/ie_ea_predition/</loc>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://sihyeong671.github.io/projects/project/chosung_game/</loc>
     <priority>0.8</priority>
   </url><url>
@@ -71,13 +74,19 @@
   </url><url>
     <loc>https://sihyeong671.github.io/tags/scheduler/</loc>
   </url><url>
+    <loc>https://sihyeong671.github.io/tags/scikit-learn/</loc>
+  </url><url>
     <loc>https://sihyeong671.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/segmentation/</loc>
   </url><url>
+    <loc>https://sihyeong671.github.io/tags/smiles/</loc>
+  </url><url>
     <loc>https://sihyeong671.github.io/tags/socket.io/</loc>
   </url><url>
     <loc>https://sihyeong671.github.io/tags/</loc>
+  </url><url>
+    <loc>https://sihyeong671.github.io/tags/xgboost/</loc>
   </url>
 </urlset>

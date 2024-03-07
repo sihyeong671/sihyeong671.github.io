@@ -6,7 +6,7 @@ description: "6인용 웹 게임 : 속담/어록 맞히기"
 featured: true
 tags: ["Next.js", "Express", "MongoDB", "Socket.io"]
 fact: ""
-weight: 101
+weight: 102
 sitemap: 
     priority : 0.8
 ---

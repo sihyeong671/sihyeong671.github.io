@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XGBoost on Portfolio</title>
+    <link>https://sihyeong671.github.io/tags/xgboost/</link>
+    <description>Recent content in XGBoost on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://sihyeong671.github.io/tags/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IE, EA regression with molcules information</title>
+      <link>https://sihyeong671.github.io/projects/project/ie_ea_predition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sihyeong671.github.io/projects/project/ie_ea_predition/</guid>
+      <description> 분자의 IE, EA 예측 모델 개발&#xA;Feature Importance 파악하여 feature selection 및 모델 개선과 분자 시각화 XGboost, RF 비교 및 테스트 코드 작성 </description>
+    </item>
+  </channel>
+</rss>
