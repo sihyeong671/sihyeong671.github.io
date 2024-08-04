@@ -18,4 +18,4 @@ sitemap:
 - SegGPT모델 사용한 자동 Segment 파이프라인 구축
 - resize의 영향 줄이기 위해 원본 이미지 split하여 예측하고 이를 평균내어 결과 예측에 사용
 - 원본 이미지와 segment mask의 overlay 픽셀의 intensity값의 분포 파악하여 연관성 확인
-- noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변형 및 약간의 성능 개선
+- noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변경하여 성능 개선

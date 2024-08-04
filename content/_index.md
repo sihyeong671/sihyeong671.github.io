@@ -9,19 +9,19 @@ outputs:
 - rss
 - json
 ---
-Hi! I'm Sihyeong Park.   
-I'm currently interested DL/ML
+Hello! I'm Sihyeong Park.
+
+I have a interest in a wide range of DL domains, including Retrieval-Augmented Generation (RAG), 3D vision, and reinforcement learning, and I am actively studying these areas.
+
+Currently, I am working as a Deep Learning Engineer at ReLU Games.
 
 
+#### Career
+ReLU Games, DL Engineer (2024.7 ~)
 
 #### Education
-B.S. in Computer Science and Engineering, Pusan National University, Seoul, South Korea (2018 ~ )
+B.S. in Computer Science and Engineering, Pusan National University, Seoul, South Korea (2018.03 ~ 2025.02)
 
-#### Exp
-- undergraduate researcher in CVlab (2023.10 ~ )
-- Bionanoscopy lab intern (2023.09 ~ 2024.04)
-- Open Source Contribution Academy (2023.07 ~ 2023.10)
-- Naver AI Tech(CV Track) (2022.09 ~ 2023.02)
 
 #### Blog
 [Naver](https://blog.naver.com/bshlab671) | [Velog](https://velog.io/@sihyeong671)

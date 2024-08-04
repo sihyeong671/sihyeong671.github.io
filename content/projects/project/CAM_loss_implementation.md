@@ -12,6 +12,6 @@ sitemap:
 ---
 
 **CAM loss**
-- CAM loss 구현
+- CAM loss 논문 구현
 - optimizer 두 개 사용해 모델 파라미터 나눠서 훈련
 - MNIST 데이터 셋으로 테스트

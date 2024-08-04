@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.123.7
+      HUGO_VERSION: 0.128.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -64,7 +64,7 @@ jobs:
 
       # 해결 못하는 에러가 생겨 미리 public을 빌드해 올리는 방법으로 사용중
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2 
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -80,4 +80,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4

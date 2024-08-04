@@ -4,7 +4,7 @@
     <title>AWS on Portfolio</title>
     <link>https://sihyeong671.github.io/tags/aws/</link>
     <description>Recent content in AWS on Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://sihyeong671.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성 Docker-compose 파일 활용한 배포 단순화 locust를 사용한 부하테스트 Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화 GCP, GCS를 사용하여 서버 배포 GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용 </description>
+      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성 Docker-compose 파일 활용한 배포 단순화 locust를 사용한 부하테스트를 통해 문제 확인후 Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화 GCP, GCS를 사용하여 서버 배포 GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용 </description>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,16 @@
     <title>Projects on Portfolio</title>
     <link>https://sihyeong671.github.io/projects/project/</link>
     <description>Recent content in Projects on Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2020 16:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sihyeong671.github.io/projects/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segment &amp; Classify for Treponema pallidum</title>
       <link>https://sihyeong671.github.io/projects/project/fta_abs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/fta_abs/</guid>
-      <description>매독균 분류 프로젝트&#xA;PyTorch Lightning을 이용해 모델 학습 코드 구현 Confusion matrix 시각화 및 Metric logging OpenCV 이용한 전처리 (Contrast Enhancement, Sharpening) SegGPT모델 사용한 자동 Segment 파이프라인 구축 resize의 영향 줄이기 위해 원본 이미지 split하여 예측하고 이를 평균내어 결과 예측에 사용 원본 이미지와 segment mask의 overlay 픽셀의 intensity값의 분포 파악하여 연관성 확인 noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변형 및 약간의 성능 개선 </description>
+      <description>매독균 분류 프로젝트&#xA;PyTorch Lightning을 이용해 모델 학습 코드 구현 Confusion matrix 시각화 및 Metric logging OpenCV 이용한 전처리 (Contrast Enhancement, Sharpening) SegGPT모델 사용한 자동 Segment 파이프라인 구축 resize의 영향 줄이기 위해 원본 이미지 split하여 예측하고 이를 평균내어 결과 예측에 사용 원본 이미지와 segment mask의 overlay 픽셀의 intensity값의 분포 파악하여 연관성 확인 noramlized intensity histogram distribution을 model의 fc layer에 concat하여 모델 구조 변경하여 성능 개선 </description>
     </item>
     <item>
       <title>Develop scoliosis classification model</title>
@@ -27,14 +27,14 @@
       <link>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</guid>
-      <description>CAM loss&#xA;CAM loss 구현 optimizer 두 개 사용해 모델 파라미터 나눠서 훈련 MNIST 데이터 셋으로 테스트 </description>
+      <description>CAM loss&#xA;CAM loss 논문 구현 optimizer 두 개 사용해 모델 파라미터 나눠서 훈련 MNIST 데이터 셋으로 테스트 </description>
     </item>
     <item>
       <title>Guessing Image with Neural Painting model</title>
       <link>https://sihyeong671.github.io/projects/project/neural_painting_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/neural_painting_game/</guid>
-      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성 Docker-compose 파일 활용한 배포 단순화 locust를 사용한 부하테스트 Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화 GCP, GCS를 사용하여 서버 배포 GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용 </description>
+      <description> Naver AI Tech final project&#xA;FastAPI를 이용한 추론 서버 구현 Sqlalchemy를 사용해 PostgreSQL과 연결 및 DB API코드 작성 Docker-compose 파일 활용한 배포 단순화 locust를 사용한 부하테스트를 통해 문제 확인후 Nginx에서 L4, L7 layer분산을 통해 추론 지연을 완화 GCP, GCS를 사용하여 서버 배포 GPU inference API에 의한 다른 API 지연 방지를 위해 BackgrountTask사용 </description>
     </item>
     <item>
       <title>IE, EA prediction with molcules information</title>

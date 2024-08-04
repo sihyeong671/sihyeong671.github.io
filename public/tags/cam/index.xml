@@ -4,7 +4,7 @@
     <title>CAM on Portfolio</title>
     <link>https://sihyeong671.github.io/tags/cam/</link>
     <description>Recent content in CAM on Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://sihyeong671.github.io/tags/cam/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sihyeong671.github.io/projects/project/cam_loss_implementation/</guid>
-      <description>CAM loss&#xA;CAM loss 구현 optimizer 두 개 사용해 모델 파라미터 나눠서 훈련 MNIST 데이터 셋으로 테스트 </description>
+      <description>CAM loss&#xA;CAM loss 논문 구현 optimizer 두 개 사용해 모델 파라미터 나눠서 훈련 MNIST 데이터 셋으로 테스트 </description>
     </item>
   </channel>
 </rss>
